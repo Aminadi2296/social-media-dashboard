@@ -64,7 +64,6 @@ body {
    will-change: transform;
 }
 .header{
-    background:var(--LightGray);
     padding-bottom: 100px;
     border-radius: 0 0 20px 20px;
     padding-top: 2em;
@@ -244,7 +243,7 @@ h2{
 
 .is-dark-mode {
     --cardGray: #252b43;
-    --baseBackgound:#1d2029;
+    --baseBackground:#1d2029;
     --baseColor: white;
     --gray:#8088ad;
     --lightGray:#1d2029;
